@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62729200713",
+    "firebase_url": "https://sea-level-indicator-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sea-level-indicator",
+    "storage_bucket": "sea-level-indicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62729200713:android:027629320b2bc19b3d4b98",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62729200713-p0stf3ancrg31ei8mhgl6usg7a8ipmds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuin2yiMAfZuue-xfpyp5oN843N6Wt2cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62729200713-p0stf3ancrg31ei8mhgl6usg7a8ipmds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
